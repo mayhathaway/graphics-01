@@ -1,5 +1,5 @@
-run: art.py
-	python3 art.py
+run: main.py
+	python3 main.py
 
 clean:
 	rm *.ppm
